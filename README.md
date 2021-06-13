@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/-ASSSITA%20AQUI-black?style=for-the-badge&logo=youtube&color=red"></img>
 </>
 
+### Libs:
+
 ```bash
 github.com/dghubble/go-twitter
 github.com/dghubble/oauth1
