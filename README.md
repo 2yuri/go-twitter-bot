@@ -1,5 +1,11 @@
 #Como criar um bot do Twitter com go
 
+## Acesse no youtube:
+
+<a href="https://www.youtube.com/watch?v=N04czOdNhi0">
+  <img src="https://img.shields.io/badge/-ASSSITA%20AQUI-black?style=for-the-badge&logo=youtube&color=red"></img>
+</>
+
 ```bash
 github.com/dghubble/go-twitter
 github.com/dghubble/oauth1
